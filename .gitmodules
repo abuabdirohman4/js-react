@@ -1,9 +1,12 @@
 [submodule "react-redux"]
 	path = react-redux
 	url = git@github.com:abuabdirohman4/react-redux.git
+	branch = develop
 [submodule "react-tic-tac-toe"]
 	path = react-tic-tac-toe
 	url = git@github.com:abuabdirohman4/react-tic-tac-toe.git
+	branch = main
 [submodule "react-native-basic"]
 	path = react-native-basic
 	url = git@github.com:abuabdirohman4/react-native-basic.git
+	branch = develop
