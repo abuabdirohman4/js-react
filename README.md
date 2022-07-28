@@ -1,1 +1,1 @@
-# js-react
+# React JS
