@@ -10,3 +10,7 @@
 	path = react-native-basic
 	url = git@github.com:abuabdirohman4/react-native-basic.git
 	branch = develop
+[submodule "react-dicoding"]
+	path = react-dicoding
+	url = git@github.com:abuabdirohman4/react-dicoding.git
+	branch = dev
