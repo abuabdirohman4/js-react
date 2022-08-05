@@ -14,3 +14,6 @@
 	path = react-dicoding
 	url = git@github.com:abuabdirohman4/react-dicoding.git
 	branch = dev
+[submodule "react-luxspace-furniture-store"]
+	path = react-luxspace-furniture-store
+	url = git@github.com:abuabdirohman4/react-luxspace-furniture-store.git
