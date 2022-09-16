@@ -17,3 +17,8 @@
 [submodule "react-luxspace-furniture-store"]
 	path = react-luxspace-furniture-store
 	url = git@github.com:abuabdirohman4/react-luxspace-furniture-store.git
+	branch = develop
+[submodule "react-digitalent"]
+	path = react-digitalent
+	url = git@github.com:abuabdirohman4/react-digitalent.git
+	branch = master
