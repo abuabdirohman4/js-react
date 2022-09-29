@@ -22,3 +22,7 @@
 	path = react-digitalent
 	url = git@github.com:abuabdirohman4/react-digitalent.git
 	branch = master
+[submodule "react-testing"]
+	path = react-testing
+	url = git@github.com:abuabdirohman4/react-testing
+	branch = master
