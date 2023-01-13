@@ -26,3 +26,9 @@
 	path = react-testing
 	url = git@github.com:abuabdirohman4/react-testing
 	branch = master
+[submodule "react-dashboard"]
+	path = react-dashboard
+	url = git@github.com:abuabdirohman4/react-dashboard
+[submodule "react-router"]
+	path = react-router
+	url = git@github.com:abuabdirohman4/react-router.git
